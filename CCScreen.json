@@ -27,12 +27,12 @@
                       "DesignMode":  false
                   },
         "ItemArray":  [
-                          "Behavior Training / CSEA Staff - (CC - RMS 1 \u0026 2)",
+                          "Health Aide Training - (CC - RMS 7 \u0026 8)",
                           "8:00 AM - 3:30 PM",
                           "Tentative"
                       ],
         "HasErrors":  false,
-        "EventDetails":  "Behavior Training / CSEA Staff - (CC - RMS 1 \u0026 2)",
+        "EventDetails":  "Health Aide Training - (CC - RMS 7 \u0026 8)",
         "EventTimeRange":  "8:00 AM - 3:30 PM",
         "Status":  "Tentative"
     },
@@ -64,87 +64,13 @@
                       "DesignMode":  false
                   },
         "ItemArray":  [
-                          "Student Behavior Training / CSEA Staff - (CC - RMS 3 \u0026 4)",
-                          "8:00 AM - 3:30 PM",
+                          "New Employee Training - (CC - RMS 1,2,5 \u0026 6)",
+                          "1:00 PM - 3:00 PM",
                           "Tentative"
                       ],
         "HasErrors":  false,
-        "EventDetails":  "Student Behavior Training / CSEA Staff - (CC - RMS 3 \u0026 4)",
-        "EventTimeRange":  "8:00 AM - 3:30 PM",
-        "Status":  "Tentative"
-    },
-    {
-        "RowError":  "",
-        "RowState":  1,
-        "Table":  {
-                      "CaseSensitive":  false,
-                      "IsInitialized":  true,
-                      "RemotingFormat":  0,
-                      "ChildRelations":  "",
-                      "Columns":  "EventDetails EventTimeRange Status",
-                      "Constraints":  "",
-                      "DataSet":  null,
-                      "DefaultView":  "",
-                      "DisplayExpression":  "",
-                      "ExtendedProperties":  "System.Data.PropertyCollection",
-                      "HasErrors":  false,
-                      "Locale":  "en-US",
-                      "MinimumCapacity":  50,
-                      "ParentRelations":  "",
-                      "PrimaryKey":  "",
-                      "Rows":  "",
-                      "TableName":  "",
-                      "Namespace":  "",
-                      "Prefix":  "",
-                      "Site":  null,
-                      "Container":  null,
-                      "DesignMode":  false
-                  },
-        "ItemArray":  [
-                          "CPR Training - (CC - RMS 5 \u0026 6)",
-                          "8:00 AM - 5:00 PM",
-                          "Tentative"
-                      ],
-        "HasErrors":  false,
-        "EventDetails":  "CPR Training - (CC - RMS 5 \u0026 6)",
-        "EventTimeRange":  "8:00 AM - 5:00 PM",
-        "Status":  "Tentative"
-    },
-    {
-        "RowError":  "",
-        "RowState":  1,
-        "Table":  {
-                      "CaseSensitive":  false,
-                      "IsInitialized":  true,
-                      "RemotingFormat":  0,
-                      "ChildRelations":  "",
-                      "Columns":  "EventDetails EventTimeRange Status",
-                      "Constraints":  "",
-                      "DataSet":  null,
-                      "DefaultView":  "",
-                      "DisplayExpression":  "",
-                      "ExtendedProperties":  "System.Data.PropertyCollection",
-                      "HasErrors":  false,
-                      "Locale":  "en-US",
-                      "MinimumCapacity":  50,
-                      "ParentRelations":  "",
-                      "PrimaryKey":  "",
-                      "Rows":  "",
-                      "TableName":  "",
-                      "Namespace":  "",
-                      "Prefix":  "",
-                      "Site":  null,
-                      "Container":  null,
-                      "DesignMode":  false
-                  },
-        "ItemArray":  [
-                          "CPR \u0026 First Aid Training / Transportation, Nurses, and Health Aides - (CC - RMS 7 \u0026 8)",
-                          "8:00 AM - 3:30 PM",
-                          "Tentative"
-                      ],
-        "HasErrors":  false,
-        "EventDetails":  "CPR \u0026 First Aid Training / Transportation, Nurses, and Health Aides - (CC - RMS 7 \u0026 8)",
-        "EventTimeRange":  "8:00 AM - 3:30 PM",
+        "EventDetails":  "New Employee Training - (CC - RMS 1,2,5 \u0026 6)",
+        "EventTimeRange":  "1:00 PM - 3:00 PM",
         "Status":  "Tentative"
     }
 ]
