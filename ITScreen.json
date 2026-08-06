@@ -220,5 +220,42 @@
         "EventDetails":  "Mtg  - (RM 1A - ERS)",
         "EventTimeRange":  "2:00 PM - 3:00 PM",
         "Status":  "Tentative"
+    },
+    {
+        "RowError":  "",
+        "RowState":  1,
+        "Table":  {
+                      "CaseSensitive":  false,
+                      "IsInitialized":  true,
+                      "RemotingFormat":  0,
+                      "ChildRelations":  "",
+                      "Columns":  "EventDetails EventTimeRange Status",
+                      "Constraints":  "",
+                      "DataSet":  null,
+                      "DefaultView":  "",
+                      "DisplayExpression":  "",
+                      "ExtendedProperties":  "System.Data.PropertyCollection",
+                      "HasErrors":  false,
+                      "Locale":  "en-US",
+                      "MinimumCapacity":  50,
+                      "ParentRelations":  "",
+                      "PrimaryKey":  "",
+                      "Rows":  "",
+                      "TableName":  "",
+                      "Namespace":  "",
+                      "Prefix":  "",
+                      "Site":  null,
+                      "Container":  null,
+                      "DesignMode":  false
+                  },
+        "ItemArray":  [
+                          "Sam - Test - (EStart CR)",
+                          "4:00 PM - 4:30 PM",
+                          "Confirmed"
+                      ],
+        "HasErrors":  false,
+        "EventDetails":  "Sam - Test - (EStart CR)",
+        "EventTimeRange":  "4:00 PM - 4:30 PM",
+        "Status":  "Confirmed"
     }
 ]
